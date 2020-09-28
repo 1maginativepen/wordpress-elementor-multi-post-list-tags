@@ -1,0 +1,51 @@
+[ 
+    {
+        "id": 0,
+        "name": "Thumbnail",
+        "width": 32,
+        "height": 32,
+        "class": "attachment-thumbnail size-thumbnail"
+    },
+    {
+        "id": 1,
+        "name": "Medium",
+        "width": 300,
+        "height": 300,
+        "class": "attachment-medium size-medium"
+    },
+    {
+        "id": 2,
+        "name": "Medium Large",
+        "width": 768,
+        "height": 469,
+        "class": "attachment-medium_large size-medium_large"
+    },
+    {
+        "id": 3,
+        "name": "Large",
+        "width": 800,
+        "height": 489,
+        "class": "attachment-large size-large"
+    },
+    {
+        "id": 4,
+        "name": "1536x1536",
+        "width": 900,
+        "height": 550,
+        "class": "attachment-1536x1536 size-1536x1536"
+    },
+    {
+        "id": 5,
+        "name": "2048x2048",
+        "width": 900,
+        "height": 550,
+        "class": "attachment-2048x2048 size-2048x2048"
+    },
+    {
+        "id": 6,
+        "name": "Full",
+        "width": 900,
+        "height": 550,
+        "class": "attachment-full size-full"
+    }
+]
